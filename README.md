@@ -1,5 +1,5 @@
-NSM Addon check
-===============
+`{exp:nsm_if_addon_installed}`
+=============================
 
 A simple ExpressionEngine 2.0 plugin that checks if an addon (plugin or module) is installed.
 
